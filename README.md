@@ -1,9 +1,9 @@
 ## Hello, This is Kartik Chaudhary
 
 - :india: I am a Data Scientist from India 
-- 🔷 I work at Optum (United Healthgroup)
+- 🔷 I work at Optum (United HealthGroup)
 - ✏️ Checkout my blog (Drops of AI) (http://dropsofai.com/)
-- 🐳 At UHG, I help design solutions to make Health Care better for everyone
+- 🐳 At UHG, I help design AI solutions to make Health Care work better for everyone
 
 <!--
 Here are some ideas to get you started:
