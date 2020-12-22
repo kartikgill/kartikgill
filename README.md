@@ -2,7 +2,7 @@
 
 - :india: I am a Data Scientist from India 
 - 🔷 I work at Optum (United Health Group)
-- ✏️ Checkout my blog on Machine Learning and Artificical Intelligence(Drops of AI) (http://dropsofai.com/)
+- ✏️ Checkout my blog on Machine Learning and Artificical Intelligence (Drops of AI) (http://dropsofai.com/)
 - 🐳 At Optum, I help design AI based solutions to make Health Care work better for everyone
 
 <!--
