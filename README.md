@@ -1,4 +1,4 @@
-## Hello, My name is Kartik Chaudhary
+## :wave: Hello, My name is Kartik Chaudhary
 
 - :india: I am a Data Scientist from India 
 - 🔷 I work at Optum (United Health Group)
