@@ -1,5 +1,13 @@
 ## :wave: Hello, My name is Kartik Chaudhary
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikgill" alt="Kartik Chaudhary" /> </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik%20Chaudhary-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/kartik-chaudhary-357b9295)
+[![Medium](https://img.shields.io/badge/Drops%20of%20AI-Kartik%20Chaudhary-yellow?style=for-the-badge&logo=medium)](http://dropsofai.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-Kartik%20Chaudhary-green?style=for-the-badge&logo=Twitter)](https://twitter.com/kartikgill96?lang=en)
+<br />
+<br />
+
 - :india: I am a Data Scientist from India 
 - 🔷 I work at Optum (United Health Group)
 - 🔭 I like working on computer vision and audio analysis based projects
@@ -11,6 +19,34 @@
 - ⚡ Twitter (https://twitter.com/kartikgill96)
 - ⚡ Instagram (https://www.instagram.com/_k_arti_k_/)
 
+### ✏️ Blog Posts
+- 🔷 [Variational AutoEncoders and Image Generation with Keras](https://dropsofai.com/variational-autoencoders-and-image-generation-with-keras/)
+- 📕 [Optimizers explained for training Neural Networks](https://dropsofai.com/optimizers-explained-for-training-neural-networks/)
+- 🔷 [1D-CNN based Fully Convolutional Model for Handwriting Recognition](https://dropsofai.com/1d-cnn-based-fully-convolutional-model-for-handwriting-recognition/)
+- 📕 [Optimizing TensorFlow models with Quantization Techniques](https://dropsofai.com/optimizing-tensorflow-models-with-quantization-techniques/)                  
+- 🔷 [Explaining Reinforcement Learning to your next-door-neighbor](https://dropsofai.com/explaining-reinforcement-learning-to-your-next-door-neighbor/)
+- 📕 [Convolutional Denoising Autoencoders for image noise reduction](https://dropsofai.com/convolutional-denoising-autoencoders-for-image-noise-reduction/)           
+- 🔷 [Understanding Audio data, Fourier Transform, FFT and Spectrogram features for a Speech Recognition System](https://dropsofai.com/understanding-audio-data-fourier-transform-fft-and-spectrogram-features-for-a-speech-recognition-system/)
+- 📕 [Bagging, Boosting, and Stacking in Machine Learning](https://dropsofai.com/bagging-boosting-and-stacking-in-machine-learning/)  
+
+
+<br/>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Kartik's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kartikgill&show_icons=true&hide_border=true" />
+
+</details>
+
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikgill&hide=C++,C)](https://github.com/Shaashwat05/github-readme-stats)
+
+</details>
+<br/>
 
 <!--
 Here are some ideas to get you started:
@@ -26,13 +62,7 @@ Here are some ideas to get you started:
 
 ### Hey 👋, I'm Shaashwat 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaashwat05" alt="Shaashwat05" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaashwat%20Agrawal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaashwat-agrawal-1904a117a/)
-[![medium](https://img.shields.io/badge/Medium-Shaashwat%20Agrawal-yellow?style=for-the-badge&logo=medium)](https://shaas2000.medium.com/)
-[![medium](https://img.shields.io/badge/Twitter-Shaashwat%20Agrawal-green?style=for-the-badge&logo=Twitter)](https://twitter.com/ShaashwatAgraw1)
-<br />
-<br />
 
 Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Computer Science and Engineering student** 🚀 from VIT Vellore.I love to explore various fields of computer science like cryptography, computer vision and implement them in my projects. Always up for new and innovative ideas, and always ready to work.
 
@@ -63,15 +93,6 @@ Hi there, I'm **Shaashwat Agrawal**, a **AI Enthusiast** and a **Computer Scienc
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
 <br/>
-
-### 📕 Latest Blog Posts
-
-- [An Essential Skill for every Data Scientist](https://towardsdatascience.com/an-essential-skill-for-every-data-scientist-d435fd0109f1)
-- [Evolution of Graph Computation and Machine Learning](https://towardsdatascience.com/evolution-of-graph-computation-and-machine-learning-3211e8682c83)
-- [Virtual Background for video conferencing using Machine Learning](https://shaas2000.medium.com/virtual-background-for-video-conferencing-using-machine-learning-dfba17d90aa9)
-- [Motion capture and Estimation using Python](https://medium.com/@shaas2000/movement-classification-b98614084ec6)                  
-- [MNIST Classifier using Genetic CNN](https://medium.com/analytics-vidhya/mnist-classifier-using-genetic-cnn-e1e860ecc2e9)
-
 
 
 <br/>
