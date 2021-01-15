@@ -8,11 +8,16 @@
 <br />
 <br />
 
-- :india: I am a Data Scientist from India 
-- 🔷 I work at Optum (United Health Group)
-- 🔭 I like working on computer vision and audio analysis based projects
-- ✏️ Checkout my blog on Machine Learning and Artificical Intelligence (Drops of AI) (http://dropsofai.com/)
-- 🐳 At Optum, I help design AI based solutions to make Health Care work better for everyone
+:india: I am a Data Scientist from India 
+<br />
+🔷 I work at Optum (United Health Group)
+<br />
+🔭 I like working on computer vision and audio analysis based projects
+<br />
+✏️ Checkout my blog on Machine Learning and Artificical Intelligence (Drops of AI) (http://dropsofai.com/)
+<br />
+🐳 At Optum, I help design AI based solutions to make Health Care work better for everyone
+<br />
 
 ### 📫 Connect here!
 - ⚡ LinkedIn (https://in.linkedin.com/in/kartik-chaudhary-357b9295)
