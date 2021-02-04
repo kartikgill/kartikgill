@@ -12,7 +12,7 @@
 <br />
 🔷 I work at Optum (United Health Group)
 <br />
-🔭 I like working on computer vision and audio analysis based projects
+🔭 I like working on computer vision based applications/research
 <br />
 ✏️ Checkout my blog on Machine Learning and Artificical Intelligence (Drops of AI) (http://dropsofai.com/)
 <br />
