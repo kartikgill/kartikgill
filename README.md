@@ -2,12 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikgill" alt="Kartik Chaudhary" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik%20Chaudhary-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/kartik-chaudhary-357b9295)
-[![Medium](https://img.shields.io/badge/Drops%20of%20AI-Kartik%20Chaudhary-yellow?style=for-the-badge&logo=medium)](http://dropsofai.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-Kartik%20Chaudhary-green?style=for-the-badge&logo=Twitter)](https://twitter.com/kartikgill96?lang=en)
-<br />
-<br />
-
 :india: I am a Data Scientist from India 
 <br />
 🔷 I work at Optum (United Health Group)
@@ -35,6 +29,13 @@
 - 📕 [Bagging, Boosting, and Stacking in Machine Learning](https://dropsofai.com/bagging-boosting-and-stacking-in-machine-learning/)  
 
 <!--
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik%20Chaudhary-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/kartik-chaudhary-357b9295)
+[![Medium](https://img.shields.io/badge/Drops%20of%20AI-Kartik%20Chaudhary-yellow?style=for-the-badge&logo=medium)](http://dropsofai.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-Kartik%20Chaudhary-green?style=for-the-badge&logo=Twitter)](https://twitter.com/kartikgill96?lang=en)
+<br />
+<br />
+
 <br/>
 
 <details>
