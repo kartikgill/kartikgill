@@ -8,15 +8,15 @@
 <br />
 🔭 I like working on computer vision based applications/research
 <br />
-✏️ Checkout my blog on Machine Learning and Artificical Intelligence (Drops of AI) (http://dropsofai.com/)
+✏️ Checkout my blog on Machine Learning and Artificical Intelligence- [Drops of AI](http://dropsofai.com/)
 <br />
 🐳 At Optum, I help design AI based solutions to make Health Care work better for everyone
 <br />
 
 ### 📫 Connect here!
-- ⚡ LinkedIn (https://in.linkedin.com/in/kartik-chaudhary-357b9295)
-- ⚡ Twitter (https://twitter.com/kartikgill96)
-- ⚡ Instagram (https://www.instagram.com/_k_arti_k_/)
+- ⚡ [LinkedIn](https://in.linkedin.com/in/kartik-chaudhary-357b9295)
+- ⚡ [Twitter](https://twitter.com/kartikgill96)
+- ⚡ [Instagram](https://www.instagram.com/_k_arti_k_/)
 
 ### ✏️ Blog Posts
 - 🔷 [Variational AutoEncoders and Image Generation with Keras](https://dropsofai.com/variational-autoencoders-and-image-generation-with-keras/)
