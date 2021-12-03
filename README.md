@@ -13,21 +13,15 @@
 🐳 At Optum, I help design AI based solutions to make Health Care work better for everyone
 <br />
 
-### 📫 Connect here!
-- ⚡ [LinkedIn](https://in.linkedin.com/in/kartik-chaudhary-357b9295)
-- ⚡ [Twitter](https://twitter.com/kartikgill96)
-- ⚡ [Instagram](https://www.instagram.com/_k_arti_k_/)
+### 📫 Connect!
+🤝[LinkedIn](https://in.linkedin.com/in/kartik-chaudhary-357b9295) <---> 🐦[Twitter](https://twitter.com/kartikgill96) <---> 📸[Instagram](https://www.instagram.com/_k_arti_k_/)
 
-### ✏️ Blog Posts
+### ✏️ Recent Blog Posts
 - 🔷 [Variational AutoEncoders and Image Generation with Keras](https://dropsofai.com/variational-autoencoders-and-image-generation-with-keras/)
 - 📕 [Optimizers explained for training Neural Networks](https://dropsofai.com/optimizers-explained-for-training-neural-networks/)
 - 🔷 [1D-CNN based Fully Convolutional Model for Handwriting Recognition](https://dropsofai.com/1d-cnn-based-fully-convolutional-model-for-handwriting-recognition/)
 - 📕 [Optimizing TensorFlow models with Quantization Techniques](https://dropsofai.com/optimizing-tensorflow-models-with-quantization-techniques/)                  
-- 🔷 [Explaining Reinforcement Learning to your next-door-neighbor](https://dropsofai.com/explaining-reinforcement-learning-to-your-next-door-neighbor/)
-- 📕 [Convolutional Denoising Autoencoders for image noise reduction](https://dropsofai.com/convolutional-denoising-autoencoders-for-image-noise-reduction/)           
-- 🔷 [Understanding Audio data, Fourier Transform, FFT and Spectrogram features for a Speech Recognition System](https://dropsofai.com/understanding-audio-data-fourier-transform-fft-and-spectrogram-features-for-a-speech-recognition-system/)
-- 📕 [Bagging, Boosting, and Stacking in Machine Learning](https://dropsofai.com/bagging-boosting-and-stacking-in-machine-learning/)  
-
+- 🔷 [Understanding Speech Recognition Systems](https://dropsofai.com/understanding-audio-data-fourier-transform-fft-and-spectrogram-features-for-a-speech-recognition-system/)
 <!--
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik%20Chaudhary-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/kartik-chaudhary-357b9295)
