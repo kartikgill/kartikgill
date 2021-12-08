@@ -4,13 +4,13 @@
 
 :india: I am a Data Scientist from India 
 <br />
-🔷 I work at Optum (United Health Group)
+🔷 I work at Google
 <br />
-🔭 I like working on computer vision based applications/research
+🔭 I like working on ML/AI based applications/research
 <br />
 ✏️ Checkout my blog on Machine Learning and Artificical Intelligence- [Drops of AI](http://dropsofai.com/)
 <br />
-🐳 At Optum, I help design AI based solutions to make Health Care work better for everyone
+🐳 At Google, I help design AI/ML based large scale products/solutions
 <br />
 
 ### 📫 Connect!
