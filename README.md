@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikgill" alt="Kartik Chaudhary" /> </p>
 
-:india: I am a Data Scientist from India 
+:india: I am from India 
 <br />
 🔷 I work at Google
 <br />
-🔭 I like working on ML/AI based applications/research
+🔭 I work on ML/AI based applications and research
 <br />
-✏️ Checkout my blog on Machine Learning and Artificical Intelligence- [Drops of AI](http://dropsofai.com/)
+✏️ Checkout my Blog on AI- [Drops of AI](http://dropsofai.com/)
 <br />
 🐳 I design AI/ML based large scale products/solutions
 <br />
