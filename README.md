@@ -10,7 +10,7 @@
 <br />
 ✏️ Checkout my blog on Machine Learning and Artificical Intelligence- [Drops of AI](http://dropsofai.com/)
 <br />
-🐳 At Google, I help design AI/ML based large scale products/solutions
+🐳 I design AI/ML based large scale products/solutions
 <br />
 
 ### 📫 Connect!
