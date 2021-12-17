@@ -8,9 +8,9 @@
 <br />
 🔭 I work on ML/AI based applications and research
 <br />
-✏️ Checkout my Blog on AI- [Drops of AI](http://dropsofai.com/)
-<br />
 🐳 I design AI/ML based large scale products/solutions
+<br />
+✏️ Checkout my Blog on AI- [Drops of AI](http://dropsofai.com/)
 <br />
 
 ### 📫 Connect!
