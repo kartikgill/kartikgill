@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikgill" alt="Kartik Chaudhary" /> </p>
 
-:india: I am from India 
+:india: I am a Machine Learning Scientist from India 
 <br />
 🔷 I work at Google
 <br />
