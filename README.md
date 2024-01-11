@@ -2,15 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikgill" alt="Kartik Chaudhary" /> </p>
 
-:india: I am a Machine Learning Scientist from India 
+:india: I am a Machine Learning professional from India 
 <br />
-🔷 I work at Google
+🔷 I currently work at Google
 <br />
-🔭 I work on ML/AI based applications and research
+🔭 I work on ML/AI based applications, research and products
 <br />
 🐳 I design AI/ML based large scale products/solutions
 <br />
 ✏️ Checkout my Blog on AI- [Drops of AI](http://dropsofai.com/)
+<br />
+📕 Checkout my latest Book- [The Definitive Guide to Google Vertex AI](https://www.amazon.com/Definitive-Guide-Google-Vertex-Implement/dp/1801815267)
 <br />
 
 ### 📫 Connect!
