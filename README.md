@@ -2,17 +2,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikgill" alt="Kartik Chaudhary" /> </p>
 
-:india: I am a Machine Learning professional from India 
+:india: I am a Machine Learning professional from India
 <br />
-🔷 I currently work at Google
+🔷 I am currently working at Google as a Senior AI/ML engineer
 <br />
-🔭 I work on ML/AI based applications, research and products
+🔭 I work on ML/AI based applications, research, MLOps, GenAI, and other AI tools.
 <br />
 🐳 I design AI/ML based large scale products/solutions
 <br />
+☎️ If you would like to connect with me 1:1, buzz me on [Topmate](https://topmate.io/kartik_chaudhary)
+<br />
 ✏️ Checkout my Blog on AI- [Drops of AI](http://dropsofai.com/)
 <br />
-📕 Checkout my latest Book- [The Definitive Guide to Google Vertex AI](https://www.amazon.com/Definitive-Guide-Google-Vertex-Implement/dp/1801815267)
+📕 Checkout my Book on Vertex AI - [The Definitive Guide to Google Vertex AI](https://www.amazon.com/Definitive-Guide-Google-Vertex-Implement/dp/1801815267)
+<br />
+📕 Checkout my Book on GANs - [The GAN Book](https://www.amazon.com/GAN-Book-Generative-Adversarial-TensorFlow2-ebook/dp/B0CR8C725C)
 <br />
 
 ### 📫 Connect!
