@@ -10,8 +10,6 @@
 <br />
 🐳 I design AI/ML based large scale products/solutions
 <br />
-☎️ If you would like to connect with me 1:1, buzz me on [Topmate](https://topmate.io/kartik_chaudhary)
-<br />
 ✏️ Checkout my Blog on AI- [Drops of AI](http://dropsofai.com/)
 <br />
 📕 Checkout my Book on Vertex AI - [The Definitive Guide to Google Vertex AI](https://www.amazon.com/Definitive-Guide-Google-Vertex-Implement/dp/1801815267)
