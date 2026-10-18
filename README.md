@@ -2,9 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikgill" alt="Kartik Chaudhary" /> </p>
 
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=kartikgill&theme=transparent)
+
 :india: I am a Machine Learning professional from India
 <br />
-🔷 I am currently working at Google as a Senior AI/ML engineer
+🔷 I am currently working at Google as a Lead AI/ML engineer (Lead FDE)
 <br />
 🔭 I work on ML/AI based applications, research, MLOps, GenAI, and other AI tools.
 <br />
